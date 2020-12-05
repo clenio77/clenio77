@@ -14,8 +14,5 @@
 ![Markdown](images/photo.png)
 ![imagens/instagram.png](https://www.instagram.com/afonso.clenio/")
 
-<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira) 
+<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="https://github.com/clenio-oliveira/clenio-oliveira/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira) 
 
-[img src="imagens/instagram.ppng](a href="https://www.instagram.com/afonso.clenio/")
-<a href="https://www.instagram.com/afonso.clenio/"><img src="imagens/instagram.png ></a>
-    <a href="https://www.linkedin.com/in/clenio-oliveira/"><img src="imagens/linkdin.png></a>
