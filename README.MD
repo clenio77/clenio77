@@ -1,6 +1,6 @@
 
 ![Markdown](imagens/Capa_github.png)
-<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="https://github.com/seu_usuário/clenio-oliveira/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira) 
+
 <center>
 <table>
     <tr>
@@ -9,3 +9,6 @@
     </tr>   
 </table>
 </center>  
+
+### Onde me achar:
+<img src=/>
