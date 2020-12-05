@@ -11,4 +11,5 @@
 </center>  
 
 ### Onde me achar:
-<img src=/>
+<a href="https://www.instagram.com/afonso.clenio/"><img src="imagens/instagram.png ></a>
+    <a href="https://www.linkedin.com/in/clenio-oliveira/"><img src="imagens/linkdin.png></a>
