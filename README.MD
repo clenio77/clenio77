@@ -15,7 +15,7 @@
 
 ### Onde me achar:
 
-<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira)  
+<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="imagens/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira)  
 
 <a href="https://www.instagram.com/afonso.clenio/"><img src="imagens/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/afonso.clenio/) 
 
