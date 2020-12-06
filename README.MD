@@ -17,7 +17,7 @@
 ### Onde me achar:
 
 ![Markdown](images/instagram.png)
-![[Mardkown](imagens/instagram.png)](https://www.instagram.com/afonso.clenio)
+![[Mardkown](imagens/instagram.png width: 30px)](https://www.instagram.com/afonso.clenio)
 
 
 ![Markdown](imagens/linkedin.png)
