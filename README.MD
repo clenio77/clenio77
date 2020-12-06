@@ -13,8 +13,9 @@
 </table>
 </center>  
 
-<<<<<<< HEAD
 ### Onde me achar:
+
+<a href="https://www.linkedin.com/in/clenio-oliveira"><img src="https://github.com/clenio77/clenio77/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira)  
 
 ![instagram](images/instagram.png)
 ![[Mardkown](imagens/instagram.png width: 30px)](https://www.instagram.com/afonso.clenio)
