@@ -19,10 +19,8 @@
 ![instagram](images/instagram.png)
 ![[Mardkown](imagens/instagram.png width: 30px)](https://www.instagram.com/afonso.clenio)
 
-
-![linkedin](imagens/linkedin.png)
+![Mardkown](imagens/linkedin.png)
 
 ![twitter](imagens/twitter.png)
-
 
 ![](https://komarev.com/ghpvc/?username=clenio77&color=blue&style=flat
