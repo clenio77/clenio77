@@ -22,5 +22,5 @@
 <a href="https://twitter.com/clenioafonso"><img src="imagens/twitter.png" width="20"></img></a> [twitter](https://twitter.com/clenioafonso)
 
 
-
+![](https://komarev.com/ghpvc/?username=clenio77)
 ![](https://komarev.com/ghpvc/?username=clenio77&color=blue&style=flat
