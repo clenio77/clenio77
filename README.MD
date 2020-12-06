@@ -17,11 +17,10 @@
 
 <a href="https://www.linkedin.com/in/clenio-oliveira"><img src="imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira)  
 
-![instagram](images/instagram.png)
-![[Mardkown](imagens/instagram.png width: 30px)](https://www.instagram.com/afonso.clenio)
+<a href="https://www.instagram.com/afonso.clenio/"><img src="imagens/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/afonso.clenio/) 
 
-![Mardkown](imagens/linkedin.png)
+<a href="https://twitter.com/clenioafonso"><img src="imagens/twitter.png" width="16"></img></a> [twitter](https://twitter.com/clenioafonso)
 
-![twitter](imagens/twitter.png)
+
 
 ![](https://komarev.com/ghpvc/?username=clenio77&color=blue&style=flat
