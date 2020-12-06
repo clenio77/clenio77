@@ -18,6 +18,7 @@
 
 <<<<<<< HEAD
 ### Onde me achar:
+
 ![Markdown](images/instagram.png)
 ![[Mardkown](imagens/instagram.png)](https://www.instagram.com/afonso.clenio)
 
@@ -27,6 +28,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
-=======
-
->>>>>>> b81c27a452f4b85457df252924c37d130588c428
