@@ -10,13 +10,13 @@
 </table>
 </center>  
 
-# Olá Seja bem vindo ao meu Github!
+# Hello Welcome to my Github!
 
-Sou graduado em Sistemas de Informação desde 2018, atualmente faço a FCD - Formação Cientista de Dados pela [Data Science Academy](https://www.datascienceacademy.com.br/pages/home), sou apaixonado por informática, sou adepto do open source, amo trabalhar com dados, principalmente usando python, R e estou extasiado pelo poder de Machine Learning.
+I have a degree in Information Systems since 2018, currently do the FCD - Data Scientist Training at [Data Science Academy] (https://www.datascienceacademy.com.br/pages/home), I am passionate about computers, I am a fan of open source, I love working with data, mainly using python, R and I am ecstatic by the power of Machine Learning.
 
-Adoro ler, principalmente assuntos ligados a ciência, informática. Se precisar entrar em contato comigo, deixo abaixo todas as minhas redes socias, fique a vontade.:+1:
+I love to read, mainly subjects related to science, informatics. If you need to contact me, I leave below all my social networks, feel free.:+1:
 
-### Onde me achar:
+### Where to find me:
 
 <a href="https://www.linkedin.com/in/clenio-oliveira"><img src="imagens/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/clenio-oliveira)  
 
