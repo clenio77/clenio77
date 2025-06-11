@@ -20,13 +20,14 @@
 
 ## 🚀 About Me
 
-**Data Scientist & Information Systems Graduate** with a passion for transforming data into actionable insights. Currently specializing in **Machine Learning** and **Data Analytics** through continuous learning and hands-on projects.
+**AI Agent Developer & Data Scientist** with expertise in creating intelligent multi-agent systems and transforming data into actionable insights. Specialized in **CrewAI**, **OpenAI**, and **LangChain** for building production-ready AI solutions.
 
 - 🎓 **Education**: Bachelor's in Information Systems (2018)
 - 📊 **Specialization**: Data Science Training at [Data Science Academy](https://www.datascienceacademy.com.br/pages/home)
-- 💡 **Interests**: Machine Learning, Data Analytics, Open Source, Scientific Computing
-- 📚 **Always Learning**: Science, Technology, and Data-driven solutions
-- 🌱 **Currently Exploring**: Advanced ML algorithms, Deep Learning, and Big Data technologies
+- 🤖 **AI Expertise**: CrewAI, OpenAI GPT-4, LangChain, AutoGen, RAG Systems
+- 💡 **Interests**: AI Agents, Machine Learning, Data Analytics, Open Source
+- 📚 **Always Learning**: Cutting-edge AI frameworks, Agent orchestration, LLM integration
+- 🌱 **Currently Exploring**: Multi-agent systems, Advanced RAG, Vector databases, AI automation
 
 ---
 
@@ -39,18 +40,96 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### AI Agents & LLM Frameworks
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![AutoGen](https://img.shields.io/badge/-AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Vector Databases & RAG
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white)
+![Weaviate](https://img.shields.io/badge/-Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI Agent Development Expertise
+
+<div align="center">
+
+### 🧠 Intelligent Agent Frameworks
+
+<table>
+<tr>
+<td width="25%">
+
+**🚀 CrewAI**
+- Multi-agent systems
+- Role-based collaboration
+- Task orchestration
+- Agent coordination
+
+</td>
+<td width="25%">
+
+**🔮 OpenAI**
+- GPT-4 integration
+- Function calling
+- Assistants API
+- Custom fine-tuning
+
+</td>
+<td width="25%">
+
+**⛓️ LangChain**
+- LLM orchestration
+- Chain composition
+- Memory management
+- Tool integration
+
+</td>
+<td width="25%">
+
+**🤝 AutoGen**
+- Conversational agents
+- Multi-agent chat
+- Code generation
+- Collaborative AI
+
+</td>
+</tr>
+</table>
+
+### 🎯 Specialized AI Technologies
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF6B35?style=flat-square&logo=robot)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=chainlink)
+![AutoGen](https://img.shields.io/badge/AutoGen-Conversational-0078D4?style=flat-square&logo=microsoft)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=flat-square&logo=anthropic)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-000000?style=flat-square&logo=pinecone)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Embeddings-FF6B6B?style=flat-square&logo=database)
+![Streamlit](https://img.shields.io/badge/Streamlit-AI%20Apps-FF4B4B?style=flat-square&logo=streamlit)
 
 </div>
 
@@ -70,14 +149,14 @@
 
 **🎯 [Agente Concurseiro](https://github.com/clenio77/agente_concurseiro)**
 > AI-powered study assistant for competitive exams
-- **Tech Stack**: Python, AI/ML
-- **Features**: Intelligent study planning, content analysis
+- **Tech Stack**: Python, OpenAI GPT-4, LangChain
+- **Features**: Intelligent study planning, content analysis, RAG system
 - **Status**: Active Development (2025)
 
 **🏛️ [Licitação AI](https://github.com/clenio77/licitacao-ai)**
 > AI system for public bidding analysis
-- **Tech Stack**: Python, Data Analysis
-- **Features**: Automated bid analysis, compliance checking
+- **Tech Stack**: Python, CrewAI, Vector Databases
+- **Features**: Multi-agent analysis, compliance checking, document processing
 - **Status**: Production Ready (2025)
 
 **🎵 [AI Music Composer](https://github.com/clenio77/composer)**
@@ -189,11 +268,12 @@ timeline
 <tr>
 <td width="33%">
 
-**🤖 Artificial Intelligence**
-- Machine Learning Models
-- AI Agent Development
-- Natural Language Processing
-- Computer Vision
+**🤖 AI Agents & LLM**
+- **CrewAI** - Multi-agent orchestration
+- **OpenAI GPT** - Language model integration
+- **LangChain** - LLM application framework
+- **AutoGen** - Conversational AI agents
+- **RAG Systems** - Retrieval-augmented generation
 
 </td>
 <td width="33%">
@@ -257,10 +337,11 @@ I'm always excited to discuss **Data Science**, **AI/ML Projects**, **Open Sourc
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afonso.clenio/)
 
 ### 📧 Collaboration Interests
-- 🤖 **AI/ML Projects** - Machine Learning, Deep Learning, NLP
+- 🤖 **AI Agent Systems** - CrewAI, OpenAI, LangChain, Multi-agent orchestration
+- 🧠 **LLM Applications** - RAG systems, Vector databases, Custom AI solutions
 - 📊 **Data Science** - Analytics, Visualization, Predictive Modeling
-- 🔧 **Open Source** - Python libraries, Tools, Automation
-- 💡 **Innovation** - Cutting-edge tech, Research, Development
+- 🔧 **Open Source** - AI frameworks, Python libraries, Automation tools
+- 💡 **Innovation** - Cutting-edge AI, Agent research, Production deployment
 
 </div>
 
