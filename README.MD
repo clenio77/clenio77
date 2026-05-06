@@ -197,8 +197,8 @@ Systems that execute final tasks: Draft documents, Alert via WhatsApp, or Genera
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clenio77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clenio77&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clenio77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clenio77&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
 </div>
 
 <div align="center">
