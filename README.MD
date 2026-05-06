@@ -230,3 +230,10 @@ timeline
          : Founded Kermartin (Legal SaaS)
          : Founded Genesys Tecnologia
          : Focus on LegalTech & Security
+
+    2026 : AI Automation & Ecosystems
+         : OSINT and Political Analytics
+         : Desktop Apps and PWAs
+         : Advanced Workflow Pipelines
+```
+</div>
