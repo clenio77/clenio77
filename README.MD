@@ -114,6 +114,42 @@ I am a passionate developer based in **Uberlândia, Brazil**, bridging the gap b
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**📡 [Radar IA](https://github.com/clenio77/radar_ai)**
+> Automated multi-agent system for AI news monitoring
+- **Focus**: OSINT & Automation
+- **Stack**: Python, OpenAI, Firecrawl
+
+</td>
+<td width="50%">
+
+**🎵 [SonicStream](https://github.com/clenio77/video-extractor)**
+> Modern web app for audio/video extraction
+- **Focus**: Media Processing & PWA
+- **Stack**: FastAPI, yt-dlp, Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📱 [KoTauri (Kotatogram)](https://github.com/clenio77/clenio-katotagram)**
+> Telegram Web K Desktop & PWA wrapper
+- **Focus**: Desktop Apps & PWA
+- **Stack**: Tauri, React
+
+</td>
+<td width="50%">
+
+**🤖 [AI Content Workflow](https://github.com/clenio77/auto-postagem)**
+> Automated content production pipeline
+- **Focus**: Media Automation
+- **Stack**: LLMs, FFmpeg, Voice Cloning
+
+</td>
+</tr>
 </table>
 
 ---
