@@ -3,69 +3,72 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Clênio+Oliveira!;SaaS+Founder+%26+AI+Engineer;Building+the+Future+of+LegalTech;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋;Sou+o+Clênio+Oliveira!;AI+Engineer+%26+SaaS+Founder;Arquiteturas+Multiagente+%26+RAG;" />
 </h1>
 
 <div align="center">
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=clenio77&color=blue&style=flat-square)](https://github.com/clenio77)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clenio-oliveira)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/clenioafonso)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/afonso.clenio/)
   [![Genesys](https://img.shields.io/badge/-Genesys_Tecnologia-7928CA?style=flat-square&logo=openai&logoColor=white)](https://genesys.ia.br)
+  [![Profile Views](https://komarev.com/ghpvc/?username=clenio77&color=blue&style=flat-square)](https://github.com/clenio77)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Perfil Profissional
 
-**SaaS Founder | AI Agent Engineer | Data Scientist**
+**AI Agent Engineer | Arquiteto de Sistemas SaaS | Cientista de Dados**
 
-I am a passionate developer based in **Uberlândia, Brazil**, bridging the gap between Data Science and Software Engineering. Currently, I am building intelligent ecosystems for the **LegalTech** industry, transforming complex legal data into actionable insights through Autonomous Agents.
+Especializado no desenvolvimento de ecossistemas inteligentes corporativos e soluções completas ponta a ponta (SaaS). Atuo com foco em modelagem preditiva, engenharia de prompts avançada (Chain-of-Thought) e orquestração de sistemas multiagente autônomos para setores regulados de alta complexidade, como **LegalTech**, **GovTech** e **HealthTech**.
 
-- 🔭 **Founder of**: [Kermartin](https://kermartin.onrender.com) (Jurimetrics SaaS) & [Genesys Tecnologia](https://genesys.ia.br) (AI Consultancy).
-- 🎓 **Education**: Bachelor's in Information Systems (2018).
-- 🤖 **AI Expertise**: Multi-Agent Systems (CrewAI), RAG, Predictive Modeling & LLM Engineering.
-- 🛡️ **Security**: Web Security Auditing & LGPD Compliance Automation.
-- 🌱 **Currently Exploring**: Advanced Agentic Patterns, Vector Databases & Scalable API Architectures.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Core & Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI Agents & Orchestration
-![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AutoGen](https://img.shields.io/badge/-AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Automation & Scraping
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Vector DBs & Deploy
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
+- 🔭 **Fundador**: [Kermartin](https://kermartin.onrender.com) (SaaS de Jurimetria Preditiva & Defesa Criminal) e [Genesys Tecnologia](https://genesys.ia.br) (Consultoria em IA & Compliance).
+- 🎓 **Formação**: Bacharel em Sistemas de Informação (2018).
+- 🤖 **Especialidades em IA**: Orquestração Multiagente (CrewAI), RAG Avançado, Modelagem Preditiva e Edge AI para processamento local de dados clínicos.
+- 🛡️ **Segurança e Conformidade**: Pipelines locais de anonimização sob conformidade com a LGPD e auditoria de APIs.
 
 ---
 
-## 🏆 Featured Projects
+## 🤖 Arquitetura de Agentes Inteligentes
+
+Especialista no design de sistemas de agentes autônomos distribuídos que cooperam para resolver fluxos de trabalho empresariais complexos:
+
+```mermaid
+graph TD
+    %% Fontes de Entrada
+    Input[Fontes de Dados: Diários Oficiais, PJe, Editais, APIs] --> Scraper[Agentes de Ingestão: Playwright / BeautifulSoup]
+    
+    %% Pipeline de Processamento e Vetorização
+    Scraper --> Clean[Camada de Higienização e Tokenização Local]
+    Clean --> RAG[RAG Engine: Pinecone / ChromaDB / Vetores de Jurisprudência]
+    
+    %% Orquestrador Central
+    RAG --> AgentOrch{Orquestrador de Agentes}
+    
+    %% Agentes Especialistas
+    AgentOrch --> AgentLaw[Agente de Análise Jurídica: Especialista em Júri / Penal]
+    AgentOrch --> AgentComp[Agente de Compliance & Editais: Auditor de Riscos]
+    AgentOrch --> AgentClin[Agente Clínico: Auditoria MDU & CoT]
+    
+    %% Validação e Human-in-the-Loop
+    AgentLaw & AgentComp & AgentClin --> Val[Validador de Segurança & Human-in-the-Loop]
+    
+    %% Saída
+    Val --> Action[Action Agents: Disparo de Alertas, Geração de Relatórios FHIR/PDF]
+```
+
+### 🧠 Abordagem Técnica de IA
+* **Agentes de Ingestão**: Web scrapers assíncronos e pipelines robustos estruturados para extração de dados públicos respeitando limites de requisições.
+* **Agentes Analistas (Cognição)**: Integração com LLMs avançados operando sob lógica estruturada de prompts, controle estrito de contexto e orquestração modular.
+* **Agentes Executores (Ação)**: Geração de entregáveis estruturados (FHIR JSON, relatórios PDF detalhados) e alertas automatizados em canais de comunicação.
+
+---
+
+## 🏆 Projetos em Destaque
 
 <div align="center">
-<h3>🚀 SaaS & Commercial Products</h3>
+  <h3>🚀 SaaS & Soluções Comerciais</h3>
 </div>
 
 <table>
@@ -73,80 +76,68 @@ I am a passionate developer based in **Uberlândia, Brazil**, bridging the gap b
 <td width="50%">
 
 **⚖️ [Kermartin IA](https://kermartin.onrender.com)**
-> **SaaS de Jurimetria Preditiva & Análise Legal**
-- **Tech Stack**: Python, CrewAI, Scikit-Learn, Render
-- **Features**: Predição de Sentenças, Análise de Peças, Chat com Jurisprudência
-- **Status**: 🟢 Production (Active)
+> **SaaS de Jurimetria Preditiva & Análise Processual**
+- **Escopo**: Análise automatizada de processos de rito especial do Júri e decote de qualificadoras (Art. 121, CP).
+- **Stack**: Django, React (Vite), Celery, Redis, PostgreSQL, CrewAI (orquestração via prompts em YAML).
+- **Diferencial**: Adapters dogmáticos modulares, pipeline local de anonimização LGPD e processamento assíncrono distribuído.
+- **Status**: 🟢 Produção (Ativo)
 
 </td>
 <td width="50%">
 
-**🛡️ [Genesys Security Auditor](https://genesys.ia.br)**
-> **API de Auditoria de Segurança & LGPD**
-- **Tech Stack**: FastAPI, BeautifulSoup, SSL Module
-- **Features**: Validação SSL, Headers de Segurança, Score de Risco
-- **Status**: 🟢 Production (Service)
+**🏛️ [Licita-AI](https://github.com/clenio77/licita-ai)**
+> **GovTech para Compliance de Editais Públicos**
+- **Escopo**: Automação do fluxo de requisições e análise inteligente de risco em contratações governamentais.
+- **Stack**: Microsoft 365, SharePoint Lists, Power Automate, Azure Functions (Node.js/Graph API), OpenAI API.
+- **Diferencial**: Dashboard analítico em Power BI com Row-Level Security e controle completo de auditoria baseado em roles.
+- **Status**: 🟢 Produção (Implementado)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<h3>🧪 Research & Open Source</h3>
+  <h3>🧪 Pesquisa, IA Local & Open Source</h3>
 </div>
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 [Agente Concurseiro](https://github.com/clenio77/agente_concurseiro)**
-> AI-powered study assistant for exams
-- **Focus**: Education & RAG
-- **Stack**: LangChain, OpenAI
+**🛡️ [MedGemma Guardian](https://github.com/clenio77/MedGemma)**
+> **Agente de Auditoria Clínica e Segurança do Paciente**
+- **Escopo**: Auditoria automatizada de prescrições médicas para mitigação de hepatotoxicidade (Google Health Impact).
+- **Stack**: MedGemma (2b quantizado 4-bit), Python, Chain-of-Thought (CoT), FHIR JSON.
+- **Diferencial**: Processamento local em Edge AI (rodando com 4GB VRAM) garantindo privacidade offline absoluta dos pacientes.
 
 </td>
 <td width="50%">
 
-**🏛️ [Licitação AI](https://github.com/clenio77/licitacao-ai)**
-> Multi-agent system for public bidding
-- **Focus**: GovTech & Compliance
-- **Stack**: CrewAI, Vector DBs
+**🔒 [Genesys Security Auditor](https://github.com/clenio77/genesys-seguranca-auditoria)**
+> **API de Auditoria de Segurança Web & LGPD**
+- **Escopo**: Varredura passiva de conformidade de infraestrutura pública e vulnerabilidades de rede.
+- **Stack**: FastAPI, BeautifulSoup, SSL Module.
+- **Diferencial**: Motor assíncrono focado em análise rápida de cabeçalhos HTTP e validade criptográfica de certificados SSL/TLS.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**📡 [Radar IA](https://github.com/clenio77/radar_ai)**
-> Automated multi-agent system for AI news monitoring
-- **Focus**: OSINT & Automation
-- **Stack**: Python, OpenAI, Firecrawl
-
-</td>
 <td width="50%">
 
 **🎵 [SonicStream](https://github.com/clenio77/video-extractor)**
-> Modern web app for audio/video extraction
-- **Focus**: Media Processing & PWA
-- **Stack**: FastAPI, yt-dlp, Docker
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📱 [KoTauri (Kotatogram)](https://github.com/clenio77/clenio-katotagram)**
-> Telegram Web K Desktop & PWA wrapper
-- **Focus**: Desktop Apps & PWA
-- **Stack**: Tauri, React
+> **Extrator de Áudio & Vídeo com Interface PWA**
+- **Escopo**: Conversão assíncrona e download de mídias de plataformas de vídeo.
+- **Stack**: FastAPI, yt-dlp, Docker, PWA (Frontend responsivo).
+- **Diferencial**: Empacotamento Docker otimizado para deploy simplificado em servidores VPS (DigitalOcean).
 
 </td>
 <td width="50%">
 
-**🤖 [AI Content Workflow](https://github.com/clenio77/auto-postagem)**
-> Automated content production pipeline
-- **Focus**: Media Automation
-- **Stack**: LLMs, FFmpeg, Voice Cloning
+**🎯 [Agente Concurseiro](https://github.com/clenio77/agente_concurseiro)**
+> **Tutor Inteligente de Estudos com RAG**
+- **Escopo**: Assistente de estudos baseado nos editais de exames públicos e materiais de referência.
+- **Stack**: LangChain, OpenAI API, Vector Databases.
+- **Diferencial**: Geração aumentada de recuperação estruturada para fornecer respostas precisas e referenciadas em leis.
 
 </td>
 </tr>
@@ -154,47 +145,63 @@ I am a passionate developer based in **Uberlândia, Brazil**, bridging the gap b
 
 ---
 
-## 🤖 AI Agent Architecture
-
-I specialize in building complex multi-agent systems where autonomous agents collaborate to solve real-world problems.
-
-
-
-[Image of AI Agent Architecture Diagram]
-
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-### 🧠 My Approach to AI Engineering
+### Engenharia de IA & Orquestração
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=flat-square&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<table>
-<tr>
-<td width="33%">
+### Backend & Engenharia de Dados
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**🕵️‍♂️ The Scraper Agents**
-Autonomous crawlers that monitor official diaries and legal courts (Playwright/BS4) to feed the system with real-time data.
+### Automação & Crawlers
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</td>
-<td width="33%">
-
-**🧠 The Analyst Agents**
-LLMs (GPT-4) configured with specialized roles (e.g., "Criminal Lawyer", "Compliance Officer") to process data.
-
-</td>
-<td width="33%">
-
-**⚙️ The Action Agents**
-Systems that execute final tasks: Draft documents, Alert via WhatsApp, or Generate PDF Reports.
-
-</td>
-</tr>
-</table>
+### Bancos Vetoriais & Cloud Infrastructure
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square&logo=database&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Linha do Tempo Profissional
+
+<div align="center">
+
+```mermaid
+timeline
+    title Trajetória e Evolução de Carreira
+    2018 : Conclusão de Bacharelado
+         : Sistemas de Informação
+    2020 : Especialização em Dados
+         : Machine Learning & Ciência de Dados (Data Science Academy)
+    2024 : Engenharia de IA Avançada
+         : Sistemas Multiagente (CrewAI) & RAG (Retrieval-Augmented Generation)
+    2025 : Fundador & Arquiteto SaaS
+         : Lançamento do Kermartin (SaaS LegalTech) & Genesys Tecnologia (Consultoria)
+    2026 : Ecossistemas Inteligentes & Edge AI
+         : MedGemma Impact Challenge (Google Health AI)
+         : Licita-AI (SharePoint/Power Automate/Azure Functions)
+```
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clenio77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -203,37 +210,4 @@ Systems that execute final tasks: Draft documents, Alert via WhatsApp, or Genera
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clenio77&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 💼 Professional Timeline
-
-<div align="center">
-
-```mermaid
-timeline
-    title Career Path
-
-    2018 : Bachelor's Degree
-         : Information Systems
-
-    2020 : Data Science Spec.
-         : Data Science Academy
-         : Machine Learning Focus
-
-    2024 : AI Engineering
-         : CrewAI & Multi-Agent Systems
-         : Advanced RAG
-
-    2025 : Entrepreneurship
-         : Founded Kermartin (Legal SaaS)
-         : Founded Genesys Tecnologia
-         : Focus on LegalTech & Security
-
-    2026 : AI Automation & Ecosystems
-         : OSINT and Political Analytics
-         : Desktop Apps and PWAs
-         : Advanced Workflow Pipelines
-```
 </div>
